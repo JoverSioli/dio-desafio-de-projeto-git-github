@@ -11,6 +11,8 @@ Repositório criado para o desafio de projeto, e ir incluindo as atividades da [
 
 - [ ] ~~4. DIO - Introdução ao Git e ao GitHub **Santander Bootcamp Fullstack Developer**~~; 05:00hrs:timer_clock:
 
+- [ ] 5. DIO - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso; 01:00hr :timer_clock:
+
   
 
 
