@@ -13,7 +13,7 @@ Repositório criado para o desafio de projeto, e ir incluindo as atividades da [
 
 - [x] 5. DIO - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso **Santander Bootcamp Fullstack Developer**; 01:00hr :timer_clock:
 
-- [x] 6. DIO - 6. DIO - Introdução a Criação de Websites com HTML5 e CSS3 **Santander Bootcamp Fullstack Developer**; 06:00hrs:timer_clock:
+- [x] 6. DIO - Introdução a Criação de Websites com HTML5 e CSS3 **Santander Bootcamp Fullstack Developer**; 06:00hrs:timer_clock:
 - [x] 7. DIO - Posicionando elementos com Flexbox em CSS **Santander Bootcamp Fullstack Developer**; 04:00hrs:timer_clock:
 - [x] 8. DIO - Recriando página Inicial do Instagram - Flexbox **Santander Bootcamp Fullstack Developer**; 01:00hrs:timer_clock:
 - [x] 9. DIO - Introdução ao JavaScript **Santander Bootcamp Fullstack Developer**; 03:00hrs:timer_clock:
