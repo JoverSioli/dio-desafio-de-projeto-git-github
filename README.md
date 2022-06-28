@@ -4,25 +4,16 @@ Repositório criado para o desafio de projeto, e ir incluindo as atividades da [
 # Listando os Certificados:
 
 - [x] 1. Conheça as Oportunidades da DIO **Santander Bootcamp Fullstack Developer**; 01:00hr :timer_clock:
-
 - [x] 2. DIO - Seja Protagonista Neste bootCamp **Santander Bootcamp Fullstack Developer**; 01:00hr :timer_clock:
-
 - [x] 3. DIO - Introdução à Programação e Pensamento Computacional **Santander Bootcamp Fullstack Developer**; 05:00hrs :timer_clock:
-
 - [x] 4. DIO - Introdução ao Git e ao GitHub **Santander Bootcamp Fullstack Developer**; 05:00hrs:timer_clock:
-
 - [x] 5. DIO - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso **Santander Bootcamp Fullstack Developer**; 01:00hr :timer_clock:
-
 - [x] 6. DIO - Introdução a Criação de Websites com HTML5 e CSS3 **Santander Bootcamp Fullstack Developer**; 06:00hrs:timer_clock:
 - [x] 7. DIO - Posicionando elementos com Flexbox em CSS **Santander Bootcamp Fullstack Developer**; 04:00hrs:timer_clock:
 - [x] 8. DIO - Recriando página Inicial do Instagram - Flexbox **Santander Bootcamp Fullstack Developer**; 01:00hrs:timer_clock:
 - [x] 9. DIO - Introdução ao JavaScript **Santander Bootcamp Fullstack Developer**; 03:00hrs:timer_clock:
 - [x] 10. DIO - Sintaxe e Operadores **Santander Bootcamp Fullstack Developer**; 02:00hrs:timer_clock:
 - [x] 11. DIO - Variáveis e Tipos **Santander Bootcamp Fullstack Developer**; 03:00hrs:timer_clock:
-  
-  
-
-
 
 ## :key:Algumas Coisas Importantes
 
